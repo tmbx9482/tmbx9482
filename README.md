@@ -3,8 +3,21 @@
 
 ## My Current Job
 ![amazon](https://aleen42.github.io/badges/src/amazon.svg)
+- 🚛📁I work as Logistics Specialist and Manager of Amazon's Transportantion Team
+- 💻🎮 At night I'm a Developer and UX Designer
+- 💪😁🤘 Actively seeking a key to open the door to my path
+- 🌟 Fun facts: I love:
+* Sports🏉
+* Video Games 🎮
+* Music 🎙🎧
+* Designing 🖱💻
+* Traveling 🎈
+* GYM 💪👦👍
+* Gambling 🎰🏆
 
-I'm am Logistics Specialist and Manager of Amazon's Transportantion Team in the Staten Island area of New York.
+## Contact Me
+Troyberentsen94@gmail.com.
+I'm always excited to build and create new platforms!
 
 ## The Career Path
 Full Stack Developer with a business, analytical, and technology mindset whose effective, results-driven, and ambitious to seek new challenges, solve company problems and meet deadlines. I am currently seek a Front-End Engineer or Web Developer position in the media or game industry.
