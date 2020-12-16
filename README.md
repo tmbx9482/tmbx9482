@@ -11,9 +11,7 @@
 
 #### Top Technologies
 
-
-
-[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![CSS Badge](https://img.shields.io/badge/-CSS3-1d4ffe?style=for-the-badge&labelColor=black&logo=CSS3&logoColor=1d4ffe)](#) [![Angular Badge](https://img.shields.io/badge/-Angular-F90303?style=for-the-badge&labelColor=black&logo=Angular&logoColor=F90303)](#)
+[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Angular Badge](https://img.shields.io/badge/-Angular-F90303?style=for-the-badge&labelColor=black&logo=Angular&logoColor=F90303)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![CSS Badge](https://img.shields.io/badge/-CSS3-1d4ffe?style=for-the-badge&labelColor=black&logo=CSS3&logoColor=1d4ffe)](#) 
 
 ## Hobbies
 ```
